@@ -1,0 +1,14 @@
+/*
+the selector
+the declaration block;
+*/
+.main .text-italic {
+  font-style: italic;
+  font-size: 30px;
+  color: rgb(159 40 100 / 28%)
+}
+.main {
+  width:40vw;
+  height: 30vh;
+  border: 1px dotted #000000;
+}
